@@ -1,0 +1,8 @@
+package cucumberOptionsPackage;
+
+
+@CucumberOptions()
+
+public class TestNGRunner {
+
+}

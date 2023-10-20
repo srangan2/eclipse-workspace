@@ -1,0 +1,9 @@
+package cucumberOptions;
+import io.cucumber.tetng.CucumberOptions;
+
+
+@CucumberOptions()
+
+public class TestNGRunner {
+
+}
